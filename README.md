@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Anasmita%20Math&fontSize=70&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,FF0077,00D2FF,7000FF,FFD700,00FF88&height=300&section=header&text=Anasmita%20Math&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=62&descSize=25" width="100%"/>
+
+  <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Machine_Learning-FF0077?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Learning_Deep_Learning-00D2FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Role-Data_Scientist-7000FF?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/—%20DATA%20SCIENCE%20—-FF0077?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/—%20MACHINE%20LEARNING%20—-00D2FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/—%20DEEP%20LEARNING%20—-7000FF?style=for-the-badge" />
   </p>
+
+  <h1> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Building+Intelligent+Models;Solving+Real+World+Data;3rd+Year+CSE+at+Work" alt="Typing SVG" />
+  </h1>
 </div>
 
 ---
