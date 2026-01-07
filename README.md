@@ -50,33 +50,43 @@
 
 ---
 
-## 📊 Programming Journey & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasmitaMath&show_icons=true&theme=dracula&title_color=00D2FF&icon_color=FF0077&text_color=ffffff&bg_color=1a1a1a&hide_border=false" width="48%" alt="Anasmita's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasmitaMath&layout=compact&theme=dracula&title_color=00D2FF&icon_color=FF0077&text_color=ffffff&bg_color=1a1a1a&hide_border=false" width="48%" alt="Anasmita's Languages" />
-</p>
-
 ---
 
-## 🛠 My Tech Stack Activity
+## 🚀 Professional Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,tensorflow,pytorch,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://img.shields.io/badge/Machine_Learning-High_Level-FF0077?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Researcher-00D2FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-Expert-7000FF?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=FF0077&style=for-the-badge&label=PROFILE+VIEWS" />
+  <table>
+    <tr>
+      <td width="50%" align="center"><b>Backend & ML Logic</b></td>
+      <td width="50%" align="center"><b>Frontend & Viz</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pytorch,tensorflow&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,pycharm&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 📊 Knowledge Map
+- **Python / Machine Learning** ![Progress](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+- **Data Analysis (Pandas/Numpy)** ![Progress](https://geps.dev/progress/85?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+- **Java & C Programming** ![Progress](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+- **Web Development (HTML/CSS)** ![Progress](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+
+---
+
+## 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/anasmita-math-460b2731b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -84,11 +94,10 @@
   <a href="mailto:mathanasmita@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AnasmitaMath">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=FF0077&style=for-the-badge&label=PROFILE+VIEWS" />
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
