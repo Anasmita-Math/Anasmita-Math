@@ -24,18 +24,17 @@
 
 ---
 
-## 💎 The Skill Galaxy
-<div align="center">
+---
 
-| Language | ML & Data Science | Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" width="45"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=sklearn" width="45"/> <br> **Scikit-Learn** | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> <br> **VS Code** |
-| <img src="https://skillicons.dev/icons?i=java" width="45"/> <br> **Java** | <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/> <br> **TensorFlow** | <img src="https://skillicons.dev/icons?i=pycharm" width="45"/> <br> **PyCharm** |
-| <img src="https://skillicons.dev/icons?i=c" width="45"/> <br> **C Language** | <img src="https://skillicons.dev/icons?i=pytorch" width="45"/> <br> **PyTorch** | <img src="https://skillicons.dev/icons?i=git" width="45"/> <br> **Git** |
-| <img src="https://skillicons.dev/icons?i=html" width="45"/> <br> **HTML5** | <img src="https://skillicons.dev/icons?i=pandas" width="45"/> <br> **Pandas** | <img src="https://skillicons.dev/icons?i=github" width="45"/> <br> **GitHub** |
-| <img src="https://skillicons.dev/icons?i=css" width="45"/> <br> **CSS3** | <img src="https://skillicons.dev/icons?i=numpy" width="45"/> <br> **NumPy** | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> <br> **MySQL** |
+## 💎 Technical Skill Galaxy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas&perline=8" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=matplotlib,tensorflow,pytorch,mysql,git,github,vscode,pycharm&perline=8" />
+</p>
 
-</div>
+---
 
 ---
 
