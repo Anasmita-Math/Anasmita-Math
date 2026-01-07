@@ -1,88 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,FF0077,20,00D2FF,40,7000FF,60,FFD700,80,00FF88,100,FF0077&height=300&section=header&text=Anasmita%20Math&fontSize=85&animation=twinkling&fontAlignY=40&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=65&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF0077,20,00D2FF,40,7000FF,60,FFD700,80,00FF88,100,FF0077&height=280&section=header&text=Anasmita%20Math&fontSize=75&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=60&descSize=22" width="100%"/>
 
   <br/>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Machine_Learning-FF0077?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deep_Learning-7000FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </p>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Analyzing+Complex+Datasets;Training+Neural+Networks;Creating+Stunning+Visuals;Code.+Data.+Innovate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Models;Solving+Real+World+Data;Deep+Learning+Explorer;Java+|+Python+|+ML" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 🦄 About My Journey
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXp4cnp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoXE6G75V1G0617vK/giphy.gif">
+## 💫 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXp4cnp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Undergraduate:** 3rd Year CSE Student.
-- 🧪 **Research Interest:** Computer Vision and Deep Learning.
-- 🎨 **Visual Storyteller:** Expert in turning messy data into beautiful graphs with **Plotly** & **Seaborn**.
-- 🛠️ **Current Sprint:** Optimizing ML models for better accuracy.
+- 🎓 **Identity:** 3rd Year CSE Undergrad passionate about AI.
+- 🧠 **Expertise:** Building end-to-end Machine Learning pipelines.
+- 🛠️ **Skills:** Proficient in **Python, Java, and C**.
+- 📊 **Visuals:** Turning complex data into stories with **Plotly** & **Seaborn**.
+- 📫 **Email:** mathanasmita@gmail.com
 
 ---
 
-## 💎 The Skill Galaxy
+## 💎 Technical Skill Galaxy
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas,matplotlib,tensorflow,pytorch,mysql,git,github,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
-## 🔮 Data Science & ML Mastery
-<div align="center">
-
-| 📊 Library | 🛠 Purpose | 🌈 Proficiency |
-| :--- | :--- | :--- |
-| **Pandas & Numpy** | Data Wrangling | ![80%](https://geps.dev/progress/80?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
-| **Scikit-Learn** | Predictive Modeling | ![75%](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
-| **Seaborn & Plotly** | Interactive Viz | ![90%](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
-| **HTML & CSS** | Web UI | ![60%](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
-
-</div>
-
----
-
----
-
----
-
-## 🚀 Professional Expertise
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-High_Level-FF0077?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-Researcher-00D2FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-Expert-7000FF?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center"><b>Backend & ML Logic</b></td>
-      <td width="50%" align="center"><b>Frontend & Viz</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pytorch,tensorflow&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,pycharm&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 Knowledge Map
+## 🔮 Knowledge Map
 - **Python / Machine Learning** ![Progress](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic)
 - **Data Analysis (Pandas/Numpy)** ![Progress](https://geps.dev/progress/85?dangerColor=FF0077&accColor=00D2FF&style=plastic)
 - **Java & C Programming** ![Progress](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic)
 - **Web Development (HTML/CSS)** ![Progress](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+
+---
+
+## 💡 Engineering Philosophy
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Information%20is%20the%20resolution%20of%20uncertainty.&author=Claude%20Shannon" alt="Inspirational Quote" />
+</p>
+
+---
+
+## 🌌 My Coding Galaxy
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithm-Design-00FF88?style=plastic" />
+  <img src="https://img.shields.io/badge/Neural-Networks-FF0077?style=plastic" />
+  <img src="https://img.shields.io/badge/Data-Engineering-7000FF?style=plastic" />
+  <img src="https://img.shields.io/badge/Clean-Code-FFD700?style=plastic" />
+  <img src="https://img.shields.io/badge/Open-Source-00D2FF?style=plastic" />
+</p>
 
 ---
 
@@ -99,5 +67,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=FF0077&style=for-the-badge&label=PROFILE+VIEWS" />
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,FF0077,50,7000FF,100,00D2FF&height=30&section=footer" width="100%"/>
 </div>
