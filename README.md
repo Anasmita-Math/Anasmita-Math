@@ -49,15 +49,16 @@
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnasmitaMath&show_icons=true&theme=transparent&title_color=7C3AED&icon_color=EC4899&text_color=4B5563&bg_color=ffffff00&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasmitaMath&layout=compact&theme=transparent&title_color=7C3AED&icon_color=EC4899&text_color=4B5563&bg_color=ffffff00&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnasmitaMath&show_icons=true&theme=radical&hide_border=false" alt="Anasmita's Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasmitaMath&layout=compact&theme=radical&hide_border=false" alt="Anasmita's Languages" />
 </p>
 
 ---
 
 ## 🐍 GitHub Contribution Journey
 <p align="center">
-  <img src="https://github-readme-snake.info/snake.svg?github_user=AnasmitaMath&color_snake=%237C3AED&snake_bg=%23F3F4F6" width="100%" />
+  <img src="https://github-readme-snake.info/snake.svg?github_user=AnasmitaMath&color_snake=%237C3AED&snake_bg=%23eeeeee" width="100%" alt="Snake Animation" />
 </p>
 
 <p align="center">
