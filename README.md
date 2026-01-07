@@ -9,7 +9,7 @@
 - 🌱 I’m strengthening my skills in **Artificial Intelligence and Data Engineering**.
 - 📊 I specialize in transforming raw data into actionable insights through visualization.
 - 💬 Ask me about **Python, Java, or Machine Learning**.
-- 📫 Reach me at: [Your Email Address]
+- 📫 Reach me at: [mathanasmita@gmail.com]
 
 ---
 
