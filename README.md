@@ -1,76 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,FF0077,00D2FF,7000FF,FFD700,00FF88&height=300&section=header&text=Anasmita%20Math&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=62&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,FF0077,20,00D2FF,40,7000FF,60,FFD700,80,00FF88,100,FF0077&height=300&section=header&text=Anasmita%20Math&fontSize=85&animation=twinkling&fontAlignY=40&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=65&descSize=25" width="100%"/>
 
-  <br />
+  <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/—%20DATA%20SCIENCE%20—-FF0077?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/—%20MACHINE%20LEARNING%20—-00D2FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/—%20DEEP%20LEARNING%20—-7000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine_Learning-FF0077?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deep_Learning-7000FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </p>
 
-  <h1> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Building+Intelligent+Models;Solving+Real+World+Data;3rd+Year+CSE+at+Work" alt="Typing SVG" />
-  </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Analyzing+Complex+Datasets;Training+Neural+Networks;Creating+Stunning+Visuals;Code.+Data.+Innovate." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-## 🚀 About Me 👩‍💻
-I am a **3rd-year B.Tech Student** specializing in **Computer Science and Engineering**. I bridge the gap between pure coding and data-driven intelligence. My goal is to build models that solve real-world problems.
+## 🦄 About My Journey
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXp4cnp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoXE6G75V1G0617vK/giphy.gif">
 
-- 🔭 **Working on:** Advanced Image Classification & Predictive Analytics.
-- 📚 **Learning:** Neural Networks and Cloud Deployment for ML models.
-- 💡 **Passion:** Turning raw datasets into colorful, meaningful insights.
-- 🎯 **Goal:** To contribute to impactful Open Source AI projects.
-
----
-
-## 🛠️ My Colorful Tech Stack
-
-### 🧠 Data Science & Analytics
-| Library | Use Case | Level |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> | Data Manipulation | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" /> | Numerical Computing | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> | Machine Learning Algorithms | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" /> | Static Visualizations | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /> | Interactive Dashboards | ⭐⭐⭐⭐ |
-
-### 💻 Programming & Web
-- **Languages:** `Python` • `Java` • `C`
-- **Frontend:** `HTML5` • `CSS3`
+- 🎓 **Undergraduate:** 3rd Year CSE Student.
+- 🧪 **Research Interest:** Computer Vision and Deep Learning.
+- 🎨 **Visual Storyteller:** Expert in turning messy data into beautiful graphs with **Plotly** & **Seaborn**.
+- 🛠️ **Current Sprint:** Optimizing ML models for better accuracy.
 
 ---
 
-## 🌈 Skills Visualization 
+## 💎 The Skill Galaxy
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,py,tensorflow,pytorch,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas,matplotlib,tensorflow,pytorch,mysql,git,github,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
-## 📌 Featured ML Highlights
-> **Project 1: Data Analysis Dashboard**
-> *Created an interactive story using Pandas & Plotly to visualize market trends.*
-> 
-> **Project 2: DL Image Classifier**
-> *Developed a model to identify patterns in complex datasets.*
+## 🔮 Data Science & ML Mastery
+<div align="center">
+
+| 📊 Library | 🛠 Purpose | 🌈 Proficiency |
+| :--- | :--- | :--- |
+| **Pandas & Numpy** | Data Wrangling | ![80%](https://geps.dev/progress/80?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| **Scikit-Learn** | Predictive Modeling | ![75%](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| **Seaborn & Plotly** | Interactive Viz | ![90%](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| **HTML & CSS** | Web UI | ![60%](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+
+</div>
 
 ---
 
-## 📬 Let's Connect!
+## 📈 My Universe Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnasmitaMath&show_icons=true&theme=calm&hide_border=false&title_color=00D2FF&icon_color=FF0077" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasmitaMath&layout=compact&theme=calm&hide_border=false&title_color=00D2FF&icon_color=FF0077" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-snake.info/snake.svg?github_user=AnasmitaMath&color_snake=%2300D2FF&snake_bg=%231a1a1a" width="100%" />
+</p>
+
 <div align="center">
-  <a href="https://linkedin.com/in/anasmita-math-460b2731b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mathanasmita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=FF0077&style=flat-square&label=VISITORS+COUNT" alt="Anasmita" />
-</div>
+## 📫 Let's Connect
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
