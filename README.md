@@ -21,6 +21,7 @@
 
 ---
 
+
 ## 💎 Technical Skill Galaxy
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas,matplotlib,tensorflow,pytorch,mysql,git,github,vscode,pycharm&theme=dark" />
