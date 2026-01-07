@@ -10,7 +10,7 @@
 - 💬 Ask me about **[Your Core Skills, e.g., React, Python, or AWS]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
----
+---]
 
 ## 🛠 Tech Stack:
 | Category | Tools |
@@ -23,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasmita-Math&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasmita-Math&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Anasmita-Math]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Anasmita-Math]&ayout=compact&theme=radical)
 
 ---
 
