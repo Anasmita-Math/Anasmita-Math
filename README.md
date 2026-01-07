@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Anasmita%20Math&fontSize=80&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSE%20Student%20|%20ML%20&%20DL%20Enthusiast&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Anasmita%20Math&fontSize=70&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSE%20Student%20|%20ML%20Enthusiast&descAlignY=60&descSize=25" width="100%"/>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Machine_Learning-FF0077?style=for-the-badge&logo=pytorch&logoColor=white" />
