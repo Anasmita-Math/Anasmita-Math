@@ -28,11 +28,14 @@
 
 ## 💎 Technical Skill Galaxy
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas&perline=8" />
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,matplotlib,tensorflow,mysql,git,github,vscode&perline=8" />
+  <!-- Programming & Web -->
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css&perline=8" />
+  <br><br>
+
+  <!-- Data Science & ML -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow&perline=8" />
 </p>
+
 
 ---
 
