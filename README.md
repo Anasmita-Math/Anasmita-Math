@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,sklearn,numpy,pandas&perline=8" />
   <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=matplotlib,tensorflow,pytorch,mysql,git,github,vscode,pycharm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,matplotlib,tensorflow,mysql,git,github,vscode&perline=8" />
 </p>
 
 ---
