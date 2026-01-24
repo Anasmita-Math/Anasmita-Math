@@ -37,8 +37,14 @@
   <br><br>
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,googlecolab,kaggle&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,google,&perline=8" />
+  <br><br>
+
+  <!-- Colab and Kaggle (workarounds) -->
+  <img src="https://skillicons.dev/icons?i=google&perline=8" title="Google (for Google Colab)" />
+  <img src="https://skillicons.dev/icons?i=data&perline=8" title="Data (for Kaggle)" />
 </p>
+
 
 
 
