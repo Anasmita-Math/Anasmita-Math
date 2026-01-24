@@ -32,9 +32,10 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css&perline=8" />
   <br><br>
 
-  <!-- Data Science & ML -->
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow&perline=8" />
+  <!-- Data, ML & Database -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,mysql&perline=8" />
 </p>
+
 
 
 ---
