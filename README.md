@@ -34,7 +34,12 @@
 
   <!-- Data, ML & Database -->
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,mysql&perline=8" />
+  <br><br>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
 </p>
+
 
 
 
