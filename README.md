@@ -37,8 +37,10 @@
   <br><br>
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,googlecolab,kaggle&perline=8" />
 </p>
+
+
 
 
 
