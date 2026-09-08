@@ -29,7 +29,7 @@
 ## 💎 Technical Skill Galaxy
 <p align="center">
   <!-- Programming & Web -->
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript&perline=8" />
   <br><br>
 
   <!-- Data, ML & Database -->
@@ -37,7 +37,7 @@
   <br><br>
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,google,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,google&perline=8" />
   <br><br>
 
   <!-- Colab and Kaggle (workarounds) -->
