@@ -1,11 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF0077,20,00D2FF,40,7000FF,60,FFD700,80,00FF88,100,FF0077&height=280&section=header&text=Anasmita%20Math&fontSize=75&animation=twinkling&fontAlignY=35&desc=4th%20Year%20CSE%20Student%20|%20AI%2FML%20Enthusiast&descAlignY=60&descSize=22" width="100%"/>
+
+  <!-- 🌌 Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF0077,20,00D2FF,40,7000FF,60,FFD700,80,00FF88,100,FF0077&height=280&section=header&text=Anasmita%20Math&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=4th%20Year%20CSE%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=22&descColor=FFFFFF" width="100%"/>
+
+  <!-- ✨ Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=60&lines=🤖+Building+Intelligent+Models;🧠+Exploring+Artificial+Intelligence;📊+Turning+Data+into+Insights;🐍+Python+%7C+Java+%7C+Machine+Learning;🚀+Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Models;Solving+Real+World+Data;Deep+Learning+Explorer;Java+|+Python+|+ML" alt="Typing SVG" />
-  </a>
+  <!-- 🌟 Profile Highlights -->
+  <img src="https://img.shields.io/badge/🤖_AI%2FML-Enthusiast-FF0077?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🐍_Python-Developer-00D2FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📊_Data-Explorer-7000FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/💻_CSE-Student-00FF88?style=for-the-badge&labelColor=0D1117"/>
+
+  <br/><br/>
+
+  <!-- 💫 Tagline -->
+  <h3>✨ Turning Ideas into Intelligent Solutions ✨</h3>
+
+  <p>
+    <i>Code • Learn • Build • Innovate 🚀</i>
+  </p>
+
 </div>
 
 ---
