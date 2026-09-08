@@ -78,12 +78,17 @@
 ---
 
 ## 🌌 My Coding Galaxy
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Algorithm-Design-00FF88?style=plastic" />
-  <img src="https://img.shields.io/badge/Neural-Networks-FF0077?style=plastic" />
-  <img src="https://img.shields.io/badge/Data-Engineering-7000FF?style=plastic" />
-  <img src="https://img.shields.io/badge/Clean-Code-FFD700?style=plastic" />
-  <img src="https://img.shields.io/badge/Open-Source-00D2FF?style=plastic" />
+  <img src="https://img.shields.io/badge/🧠_Algorithm_Design-00FF88?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🤖_Neural_Networks-FF0077?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📊_Data_Engineering-7000FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/✨_Clean_Code-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌍_Open_Source-00D2FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <i>💫 Turning ideas into logic, data into insights, and code into solutions.</i>
 </p>
 
 ---
