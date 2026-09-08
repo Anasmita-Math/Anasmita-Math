@@ -17,3 +17,49 @@
   <img src="https://img.shields.io/badge/💻_CSE-Student-00FF88?style=for-the-badge&labelColor=0D1117"/>
 
   <br/><br/>
+
+<!-- 💫 Tagline -->
+  <h3>✨ Turning Ideas into Intelligent Solutions ✨</h3>
+
+  <p>
+    <i>Code • Learn • Build • Innovate 🚀</i>
+  </p>
+
+</div>
+
+---
+
+## 💫 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXp4cnp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 **Identity:** 4th Year CSE Undergrad passionate about AI.
+- 🧠 **Expertise:** Building end-to-end Machine Learning pipelines.
+- 🛠️ **Skills:** Proficient in **Python, Java, and C**.
+- 📊 **Visuals:** Turning complex data into stories with **Plotly** & **Seaborn**.
+- 📫 **Email:** mathanasmita@gmail.com
+
+---
+
+
+---
+
+---
+
+## 💎 Technical Skill Galaxy
+<p align="center">
+  <!-- Programming & Web -->
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript&perline=8" />
+  <br><br>
+
+  <!-- Data, ML & Database -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,mysql&perline=8" />
+  <br><br>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,google&perline=8" />
+  <br><br>
+
+  <!-- Colab and Kaggle (workarounds) -->
+  <img src="https://skillicons.dev/icons?i=google&perline=8" title="Google (for Google Colab)" />
+  <img src="https://skillicons.dev/icons?i=data&perline=8" title="Data (for Kaggle)" />
+</p>
