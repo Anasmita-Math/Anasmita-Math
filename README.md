@@ -95,3 +95,34 @@
 
 ---
 
+## 🌌 My Coding Galaxy
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Algorithm_Design-00FF88?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🤖_Neural_Networks-FF0077?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📊_Data_Engineering-7000FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/✨_Clean_Code-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌍_Open_Source-00D2FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <i>💫 Turning ideas into logic, data into insights, and code into solutions.</i>
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/anasmita-math-460b2731b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mathanasmita@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnasmitaMath&color=FF0077&style=for-the-badge&label=PROFILE+VIEWS" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,FF0077,50,7000FF,100,00D2FF&height=30&section=footer" width="100%"/>
+</div>
