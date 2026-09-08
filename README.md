@@ -9,3 +9,11 @@
   </a>
 
   <br/>
+
+<!-- 🌟 Profile Highlights -->
+  <img src="https://img.shields.io/badge/🤖_AI%2FML-Enthusiast-FF0077?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🐍_Python-Developer-00D2FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📊_Data-Explorer-7000FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/💻_CSE-Student-00FF88?style=for-the-badge&labelColor=0D1117"/>
+
+  <br/><br/>
