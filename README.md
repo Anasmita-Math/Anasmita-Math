@@ -58,10 +58,15 @@
 ---
 
 ## 🔮 Knowledge Map
-- **Python / Machine Learning** ![Progress](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic)
-- **Data Analysis (Pandas/Numpy)** ![Progress](https://geps.dev/progress/85?dangerColor=FF0077&accColor=00D2FF&style=plastic)
-- **Java & C Programming** ![Progress](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic)
-- **Web Development (HTML/CSS/JavaScript)** ![Progress](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic)
+
+| 🧠 Skill | 📊 Proficiency |
+|:---|:---:|
+| 🐍 **Python / Machine Learning** | ![90%](https://geps.dev/progress/90?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| 📊 **Data Analysis — Pandas / NumPy** | ![85%](https://geps.dev/progress/85?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| ☕ **Java & C Programming** | ![75%](https://geps.dev/progress/75?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+| 🌐 **Web Development — HTML / CSS / JavaScript** | ![60%](https://geps.dev/progress/60?dangerColor=FF0077&accColor=00D2FF&style=plastic) |
+
+> 🚀 **Always learning • Always building • Always improving**
 
 ---
 
