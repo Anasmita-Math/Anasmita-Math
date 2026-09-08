@@ -13,7 +13,7 @@
 ## 💫 About Me
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXp4cnp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Identity:** 3rd Year CSE Undergrad passionate about AI.
+- 🎓 **Identity:** 4th Year CSE Undergrad passionate about AI.
 - 🧠 **Expertise:** Building end-to-end Machine Learning pipelines.
 - 🛠️ **Skills:** Proficient in **Python, Java, and C**.
 - 📊 **Visuals:** Turning complex data into stories with **Plotly** & **Seaborn**.
